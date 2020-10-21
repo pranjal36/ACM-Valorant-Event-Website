@@ -1,0 +1,114 @@
+body{
+              
+              background-color: #222222;
+    cursor:url("https://img.icons8.com/bubbles/50/000000/electrified-cursor.png"),default;
+              
+          }
+          .valobg{
+              
+              background-color: #222222;
+              
+          }
+          .textcenter{
+              
+              text-align: center;
+              
+          }
+          .font-page{
+              
+              font-family: 'Righteous', cursive;
+              
+          }
+          .font-white{
+              
+              color: white;
+              
+          }
+          h1{
+              
+              font-size:420%;
+              
+          }
+          .jumbotron{
+              
+              background-image: url(img/3037905.jpg);
+              background-size: 100%;
+              background-repeat: no-repeat;
+              border-top-left-radius: 0px;
+              border-top-right-radius: 0px;
+          }
+          @media (max-width: 908px) {
+            
+              .jumbotron{
+              background-image: url(img/valoimg2.jpg);
+                  background-blend-mode: darken;
+                  background-size: 100%;
+              background-repeat: no-repeat;
+              background-color: #FE4553;
+              border-top-left-radius: 0px;
+              border-top-right-radius: 0px;
+          }  
+              
+            }
+          .blue{
+              color: aqua;
+          }
+          .valocolor{
+              color: #FF4654;
+          }
+          .whitebg{
+              background-color: #8DEFF6;
+          }
+          #collab{
+              
+              color: white;
+              
+          }
+          .ul{
+              
+              border-bottom: 4px solid white;
+              padding-bottom: 3px;
+              
+          }
+          .normalfont{
+              
+              font-size: 140%;
+              
+          }
+          nav{
+              
+              background-color: #222222;
+              
+          }
+          .smallfont{
+              
+              font-size: 58%;
+              
+          }
+          .verysmallfont{
+              
+              font-size:140%;
+              
+          }
+          .veryverysmall{
+              
+              font-size:100% !important;
+              
+          }
+          #instalogo{
+              
+              position: relative;
+              bottom: 3px;
+              
+          }
+          #linkedinlogo{
+              
+              position: relative;
+              bottom: 8px;
+              
+          }
+          .p{
+              
+              padding-bottom: 3px;
+              
+          }
